@@ -8,9 +8,9 @@
 ## 🌱 interests
 
 
- - Machine Learning
- - Deep Learning
- - GIS analysis and visualization 
+ - #### Machine Learning
+ - #### Deep Learning
+ - #### GIS analysis and visualization 
 
 
 <br>
