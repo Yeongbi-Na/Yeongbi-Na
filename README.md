@@ -5,7 +5,7 @@
 #### Minor : Mechanical System Design Engineering
 <br>
 
-## 🌱 interests
+## 🌱 Interests
 
 
  - #### Machine Learning
