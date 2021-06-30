@@ -1,4 +1,4 @@
-## 🌱 Future Data Analysist Yeongbi😄
+## 🌱 Future Data Scientist Yeongbi😄
 
 #### I'm currently learning data analysis at SeoulTech, an university in Seoul(South Korea).
 #### Major : Industrial and Information Systems Engineering
