@@ -10,7 +10,7 @@
  - #### Machine Learning
  - #### Deep Learning
  - #### GIS analysis and visualization 
-
+ - #### main programming language is Python
 
 <br>
 
