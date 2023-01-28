@@ -1,5 +1,5 @@
 ## 🌱 Future Data Scientist Yeongbi😄
-#### I worked for GIST Institute for AI, an researcher
+#### I worked for GIST Institute for AI, a researcher
 #### Major : Industrial and Information Systems Engineering
 #### Minor : Mechanical System Design Engineering
 <br>
