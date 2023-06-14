@@ -1,6 +1,6 @@
 ## 🌱 Future Data Scientist Yeongbi😄
-#### I worked for GIST Institute for AI, a researcher
 #### I am working for Hyundai Mobis, a Data Analysis
+#### I worked for GIST Institute for AI, a researcher
 #### Major : Industrial and Information Systems Engineering
 #### Minor : Mechanical System Design Engineering
 <br>
